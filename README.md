@@ -1,0 +1,2 @@
+# TIN 2019L - Rozproszony system plików
+Rozproszony system plików, ma polegać na tym, że wszystkie węzły podłączone do tego systemu, będą miały katalog, który na każdym z węzłów będzie synchronizowany. Pomiędzy węzłami oprócz plików w katalogu będą przesyłane drzewa plików, z nazwą oraz aktualną wersją plików.
